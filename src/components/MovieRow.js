@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 import React, { useState } from 'react';
 import './MovieRow.css';
 import NavigateBeforeIcon from '@material-ui/icons/NavigateBefore';
